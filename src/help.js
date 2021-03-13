@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `
 
-𝗕𝗢𝗧 𝗡𝗔𝗕𝗨𝗧𝗜𝗡
+𝗜𝗖𝗘 𝗕𝗢𝗧
 𝗜𝗡𝗙𝗢𝗦:
 
  *O BOT SE ENCONTRA: ON-LINE*
